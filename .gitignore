@@ -1,0 +1,18 @@
+# Dependency Directories
+node_modules/
+/dist
+/build
+
+# Logs and Run-Time Files
+npm-debug.log
+yarn-error.log
+.DS_Store
+*.log
+
+# Environment Variables (CRITICAL to ignore)
+.env
+.env.local
+
+# IDE/Editor Files (Optional)
+.vscode/
+.idea/
